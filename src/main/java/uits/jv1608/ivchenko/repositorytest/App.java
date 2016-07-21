@@ -12,5 +12,7 @@ package uits.jv1608.ivchenko.repositorytest;
 public class App {
     public static void main(String[] args) {
         System.out.println("Howdy!");
+        System.out.println("Howdy!");
+
     }
 }
